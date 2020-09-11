@@ -1,0 +1,17 @@
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\WebTest1.webtest
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\TesteDeCarga.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\TesteDeCarga.pdb
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.WebTestFramework.resources.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\obj\Debug\TesteDeCarga.csprojAssemblyReference.cache
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\obj\Debug\TesteDeCarga.csproj.CoreCompileInputs.cache
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\obj\Debug\TesteDeCarga.csproj.CopyComplete
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\obj\Debug\TesteDeCarga.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\obj\Debug\TesteDeCarga.pdb
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\BuscaGoogle_5Iteracoes.loadtest
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\WebDriver.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\WebDriver.Support.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\WebDriver.xml
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteDeCarga\bin\Debug\WebDriver.Support.xml

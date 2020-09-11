@@ -17,3 +17,20 @@ C:\Projetos\Git\TesteAutomatizadoSelenium\TesteAutomatizadoSelenium\obj\Debug\Te
 C:\Projetos\Git\TesteAutomatizadoSelenium\TesteAutomatizadoSelenium\obj\Debug\TesteAutomatizadoSelenium.csproj.CopyComplete
 C:\Projetos\Git\TesteAutomatizadoSelenium\TesteAutomatizadoSelenium\obj\Debug\TesteAutomatizadoSelenium.dll
 C:\Projetos\Git\TesteAutomatizadoSelenium\TesteAutomatizadoSelenium\obj\Debug\TesteAutomatizadoSelenium.pdb
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\TesteAutomatizadoSelenium.dll.config
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\TesteAutomatizadoSelenium.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\TesteAutomatizadoSelenium.pdb
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\WebDriver.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\WebDriver.xml
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\obj\Debug\TesteAutomatizadoSelenium.csprojAssemblyReference.cache
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\obj\Debug\TesteAutomatizadoSelenium.csproj.CoreCompileInputs.cache
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\obj\Debug\TesteAutomatizadoSelenium.csproj.CopyComplete
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\obj\Debug\TesteAutomatizadoSelenium.dll
+C:\Users\olivia.mattiazzo\Downloads\Personal\New folder\TestesAutomatizadosECargaSelenium\TesteAutomatizadoSelenium\obj\Debug\TesteAutomatizadoSelenium.pdb
