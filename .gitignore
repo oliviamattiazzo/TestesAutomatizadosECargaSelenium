@@ -1,1 +1,4 @@
 TesteAutomatizadoSelenium/App.config
+
+TesteAutomatizadoSelenium/bin/**
+TesteAutomatizadoSelenium/obj/**
