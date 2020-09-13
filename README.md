@@ -15,7 +15,7 @@ Depois, fiz outro tutorial sobre [testes de carga com Selenium.](https://oliviam
 
 Decidi deixar aqui no meu GitHub o projeto completo caso alguém queira consultá-lo. Fora que também serve de portifolio, né? :woman_shrugging:
 
-<img src="https://img.shields.io/static/v1?label=VisualStudio&message=2017&color=blue&logo=visual-studio-code">
+<img src="https://img.shields.io/static/v1?label=VisualStudio&message=2017&color=blue&logo=visual-studio">
 
 ## Como usar?
 É só baixar o projeto e abrí-lo com o Visual Studio 2017.
