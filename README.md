@@ -36,4 +36,4 @@ Fique à vontade para me contatar com qualquer pergunta, dicas ou feedbacks sobr
 
 :hatched_chick: Twitter: [@oliviamattiazzo](https://twitter.com/oliviamattiazzo)
 
-:iphone: [Linkedin](https://www.linkedin.com/in/olivia-pachele-mattiazzo-433a8711b/)
+:iphone: [Linkedin](https://www.linkedin.com/in/oliviamattiazzo/)
